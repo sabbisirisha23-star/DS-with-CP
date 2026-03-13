@@ -1,0 +1,1 @@
+stack is empty stack is empty there is no top element top element is -1 is this stack empty true After Appending 10__ [10,] top element is 10 is this stack empty : false After Appending 20___ [20,10,] top element is 20 is this stack empty : false After pop oparation_____ [10,] top element is 10 is this stack empty : false
